@@ -1,0 +1,2 @@
+# playstoreprivacy
+playstore privacy statement
